@@ -1,0 +1,10 @@
+onnxruntime==1.15.0
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+langchain-openai
